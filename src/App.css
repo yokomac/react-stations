@@ -1,0 +1,19 @@
+.DogAPIheader {
+  background-color: #f5f5f5;
+  font-size: 32px;
+  font-weight: bold;
+  text-align: center;
+  
+}
+.Dogdiv{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.DogAPIp{
+  text-align: center;
+}
+.Dog-img{
+  align-items: end;
+  max-width: 100px;
+}
